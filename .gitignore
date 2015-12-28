@@ -25,6 +25,4 @@
 # Executables
 *.exe
 *.out
--endpoint
--output-
 *.app
